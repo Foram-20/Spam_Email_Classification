@@ -5,15 +5,13 @@ SafeMailAI is a powerful email classification tool that leverages NLP and machin
 
 ## Features
 
-Features of Spam Email Classification Using NLP and Machine Learning
-Automated Spam Detection: Quickly identifies spam and legitimate emails.
-Advanced Text Analysis: Uses NLP techniques like TF-IDF and word embeddings for feature extraction.
-Adaptive Learning Models: Employs machine learning algorithms to handle evolving spam patterns.
-Contextual Understanding: Leverages deep learning models like LSTM or transformers (e.g., BERT) for semantic analysis.
-Multilingual Support: Capable of analyzing emails in different languages.
-Scalability: Can process large volumes of emails efficiently.
-Model Performance
-The model achieves high accuracy and precision, ensuring effective spam detection while minimizing false positives.
+<p>Automated Spam Detection: Quickly identifies spam and legitimate emails.</p>
+<p>Advanced Text Analysis: Uses NLP techniques like TF-IDF and word embeddings for feature extraction.</p>
+<p>Adaptive Learning Models: Employs machine learning algorithms to handle evolving spam patterns.</p>
+<p>Contextual Understanding: Leverages deep learning models like LSTM or transformers (e.g., BERT) for semantic analysis.</p>
+<p>Multilingual Support: Capable of analyzing emails in different languages.</p>
+<p>Scalability: Can process large volumes of emails efficiently.</p>
+<p>Model Performance: The model achieves high accuracy and precision, ensuring effective spam detection while minimizing false positives.</p>
 
 ## Installation
 
